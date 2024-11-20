@@ -1,3 +1,4 @@
 Git Revert commit 1
 
 This is Sample File 2
+ This is Comparion lecture, chnage in file 2
